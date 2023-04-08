@@ -1,40 +1,13 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="trek.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>TREK BIKE RENTALS</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -61,7 +34,6 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Trek Bike Rental <a name="about-project"></a>
 
@@ -94,7 +66,7 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -110,15 +82,15 @@ After you're finished please remove all the comments and instructions!
 
 - [Link To Documentation](https://bike-rental-api.onrender.com/api-docs/index.html)
 
-<!-- LIVE DEMO -->
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]
+- [Live Demo Link](rentbikes.netlify.app)
 
 ## Back-end Repository <a name="backend-repo"></a>
 
-[Backend Repo]
+[Backend Repo](https://github.com/demix007/CAR-RENTAL-BACKEND)
 
 ## Kanban Board <a name="kanban-board"></a>
 
@@ -131,8 +103,6 @@ The collaborators to this project are;
 - [@Nejjari001](https://github.com/nejjari001)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -179,17 +149,10 @@ To run tests, run the following command:
   npm run test or npm test
 ```
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -213,7 +176,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -222,7 +185,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -232,7 +195,6 @@ Feel free to check the [issues page](https://github.com/soulemanou-software/car-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -240,7 +202,7 @@ If you like this project, kindly give as a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -249,7 +211,6 @@ If you like this project, kindly give as a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
@@ -262,8 +223,6 @@ If you like this project, kindly give as a ⭐️
   - [Redux is simply a store to store the state of the variables in your app.](https://medium.com/swlh/what-is-redux-b16b42b33820)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
