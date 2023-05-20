@@ -1,4 +1,5 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
+import apiSlice from "../components/api/apiSlice.js";
 
 export const apiSlice = createApi({
   reducerPath: 'Bikes',
