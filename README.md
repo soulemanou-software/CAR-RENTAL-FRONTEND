@@ -1,40 +1,13 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="trek.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>TREK BIKE RENTALS</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -61,7 +34,6 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Trek Bike Rental <a name="about-project"></a>
 
@@ -94,7 +66,7 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -110,30 +82,24 @@ After you're finished please remove all the comments and instructions!
 
 - [Link To Documentation](https://bike-rental-api.onrender.com/api-docs/index.html)
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://deploy-preview-31--rentbikes.netlify.app)
 
 ## Back-end Repository <a name="backend-repo"></a>
 
-  [Backend Repo](https://github.com/DuaneDave/Bike-rental-api)
+[Backend Repo](https://github.com/soulemanou-software/bike-rental-backend-)
 
 ## Kanban Board <a name="kanban-board"></a>
 
-  [Initial Kanbam Board link](https://user-images.githubusercontent.com/99597333/210737236-a5ccadaa-cae1-428d-af5d-70577c1b3620.png)
+[Initial Kanbam Board link](https://user-images.githubusercontent.com/99597333/210737236-a5ccadaa-cae1-428d-af5d-70577c1b3620.png)
 
-The collaborators to this project  are;
+The collaborators to this project are;
 
-- [@DuaneDave](https://github.com/DuaneDave)
-- [@Haadiiii](https://github.com/Haadiiii)
-- [@ChaabaneAnas](https://github.com/ChaabaneAnas/)
-- [@principlebrothers](https://github.com/principlebrothers)
+- [@demix007](https://github.com/demix007)
+- [@soulemanou-software](https://github.com/soulemanou-software)
+- [@Nejjari001](https://github.com/nejjari001)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -151,7 +117,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/DuaneDave/Bike-rental.git
+  git clone https://github.com/soulemanou-software/car-rental-frontend.git
 ```
 
 ### Install
@@ -159,7 +125,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Bike-rental
+  cd car-rental-frontend
 
   npm install
 ```
@@ -180,50 +146,34 @@ To run tests, run the following command:
   npm run test or npm test
 ```
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ernest Anyewe Adonu**
+👤 **NEJJARI ABDELHAFID**
 
-- GitHub: [@principlebrothers](https://github.com/principlebrothers)
-- Twitter: [@adonu_ernest](https://twitter.com/adonu_ernest)
-- LinkedIn: [Ernest Anyewe Adonu](www.linkedin.com/in/ernest-anyewe-adonu)
+- GitHub: [ @Nejjari001](https://github.com/Nejjari001)
+- Twitter: [@AbdoNJ19](https://https//twitter.com/AbdoNJ19)
+- LinkedIn: [Abdelhafid Nejjari](https://www.linkedin.com/in/abdelhafid-nejjari)
 
+👤 **soulemanou kunchiefuh babanou**
 
-👤 **Haamid Ali**
+- GitHub: [@githubhandle](https://github.com/soulemnou-software)
+- Twitter: [@twitterhandle](https://twitter.com/Mr_Babanou)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/soulemanou-kunchiefuh-babanou)
 
-- GitHub: [@Haadiiii](https://github.com/Haadiiii)
-- Twitter: [@HaaDiii_99](https://twitter.com/HaaDiii_99)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamid-ali-01a872213/)
+👤 **Ayodeji Abidemi**
 
-
-👤 **Obiebi David**
-
-- GitHub: [@githubhandle](https://github.com/DuaneDave)
-- Twitter: [@twitterhandle](https://twitter.com/dave_duane)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-obiebi)
-
-
-👤 **Anas Chabaane**
-
-- GitHub: [@githubhandle](https://github.com/ChaabaneAnas/)
-- Twitter: [@twitterhandle](https://twitter.com/AnasChabaane)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chaabaneanas/)
+- GitHub: [![demix007](https://img.shields.io/badge/-demix007-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/demix007)
+- Twitter: [![dat_dope_demix](https://img.shields.io/badge/-dat_dope_demix-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/dat_dope_demix)
+- LinkedIn: [![ayodeji-abidemi](https://img.shields.io/badge/-AyodejiAbidemi-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://linkedin.com/in/ayodeji-abidemi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -232,17 +182,16 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DuaneDave/Bike-rental/issues/new)).
+Feel free to check the [issues page](https://github.com/soulemanou-software/car-rental-frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -250,17 +199,15 @@ If you like this project, kindly give as a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - We would like to thank [Microverse](https://www.microverse.org/) for inspiring this project
 - A special appreciation to [Murat Korkmaz](https://www.behance.net/muratk) who design on [Behance](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign) inspired this project
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
@@ -273,8 +220,6 @@ If you like this project, kindly give as a ⭐️
   - [Redux is simply a store to store the state of the variables in your app.](https://medium.com/swlh/what-is-redux-b16b42b33820)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 

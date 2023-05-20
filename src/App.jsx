@@ -16,23 +16,15 @@ import Error from "./pages/404Page";
 import { useGetBikesQuery } from "./components/api/apiSlice";
 import Spiner from "./reusables/spiner/Spinner";
 
-function App() {
-  const user = sessionStorage("get");
+const App = () => {
+  const user = sessionStorage.getItem("get");
   const theme = localStorage.getItem("theme");
-
-  const { isLoading } = useGetBikesQuery();
-  useEffect(() => {
-    if (theme === "dark") {
-      document.body.classList.add("dark");
-    }
-
-    if (theme === "light") {
-      document.body.classList.remove("dark");
-    }
-  });
-
-  return (
-    <React.Fragment>
+   const { isLoading } = useGetBikesQuery();
+   useEffect(() => {
+    document.body.classList.toggle("dark", theme === "dark");
+  }, [theme]);
+   return (
+    <>
       <Router>
         {isLoading && <Spiner />}
         {user && <Sidebar />}
@@ -49,8 +41,7 @@ function App() {
           {user && <Route path="*" element={<Navigate to='/home' />} />}
         </Routes>
       </Router>
-    </React.Fragment>
+    </>
   );
-}
-
-export default App;
+};
+ export default App;
