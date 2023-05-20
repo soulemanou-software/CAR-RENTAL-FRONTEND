@@ -84,13 +84,10 @@
 
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](rentbikes.netlify.app)
 
 ## Back-end Repository <a name="backend-repo"></a>
 
-[Backend Repo](https://github.com/demix007/CAR-RENTAL-BACKEND)
+[Backend Repo](https://github.com/soulemanou-software/bike-rental-backend-)
 
 ## Kanban Board <a name="kanban-board"></a>
 
